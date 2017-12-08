@@ -4,4 +4,4 @@ Team Memers:
 1. Alpesh Ahir   alpeshahir@csu.fullerton.edu
 2. Bhavika Bhanushali   bhavika@csu.fullerton.edu
 3. Prajwal
-4. Vineeth 
+4. Vineeth Vasudevan  vineeth.381994@csu.fullerton.edu
